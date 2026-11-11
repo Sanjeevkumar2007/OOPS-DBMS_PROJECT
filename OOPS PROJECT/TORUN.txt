@@ -1,0 +1,2 @@
+javac -cp ".;mysql-connector-j-26.10.0.jar" BookNest.java
+java -cp ".;mysql-connector-j-26.10.0.jar" BookNest
